@@ -21,7 +21,7 @@
 title: Sophie's Website
 email: sophie.kolston@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Some things I find cool. Created using Jekyll
+  Some things I find cool
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SophieKolston
@@ -29,8 +29,6 @@ github_username:  Yozpoz64
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
