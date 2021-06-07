@@ -12,11 +12,13 @@ We never want students to stress. This is pretty unavoidable at uni, but hopeful
 Thanks to Gina, Rachel, Amber, Sila and everyone else who helped us sort out the room booking, advertising, and coming to the sessions to help out.
 
 #### Important Info
-<b>Location:</b> [302-160](https://maps.auckland.ac.nz/wayfinding?type=poi&selectedLocation=1000022926) (Science Centre, floor one)
+Semester one sessions over, check back after exams for the semester two times
 
-<b>Time:</b> 17:00 - 18:00 
+<b>Location:</b> <strike>302-160 (Science Centre, floor one)</strike> 
 
-<b>Day:</b> Tuesday (within semester time)
+<b>Time:</b> <strike>17:00 - 18:00</strike>
+
+<b>Day:</b> <strike>Tuesday (within semester time)</strike>
 
 ![Helpdesk Poster](/assets/helpdesk_poster.png "Helpdesk Poster")
 
