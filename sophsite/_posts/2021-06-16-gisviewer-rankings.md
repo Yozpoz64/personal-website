@@ -4,6 +4,8 @@ title:  "A Definitive Ranking of NZ Council GIS Viewers"
 date:   2021-06-16
 categories: misc
 ---
+**see end for updates**
+
 New Zealand is blessed with a lack of unification. A while ago it was decided that we should be split into regions, then districts. Regional and district councils are an important part of our local government, representing the inhabitants in each region, mostly with diverse groups of white men. But do not fear, no matter where in the country you are, you will have representation through taxation thanks to your friendly regional GIS viewer. 
 
 And these GIS viewers are important. The layperson can log in and make use of a friendly UI to find out property boundaries, gas lines, government valuations, flood risk and so on. And, far less importantly, my first introduction to GIS was through Auckland Council's GeoMaps. 
@@ -263,3 +265,7 @@ A lot of the issues I had with viewers were not down to the supplier, but to do 
 All of this begs the question: why do we need different GIS viewers for different councils? Why can we not contain all GIS data within a central data management system, or at the very least link all of the data from a single dashboard? Is it a question of data sovereignty, or simply the cogs of the Government turning at a slow pace with lack of communication/collaboration? Who knows. I understand that the people targeted by these viewers are residents within each district/region so it might be a bit overwhelming to show them an entire country's worth of data, but this can be handled with some good UX design.
 
 I am simply a judgemental student who has never had a real job, so I know not of the hurdles that have been jumped through to develop and deploy these systems. It was really fun to go through them and learn about the way these organizations choose to present their spatial data. It seems like NZ is a great place for accessing open data and these viewers are a cool way of doing this. Nevertheless, I hope you enjoyed reading. Have a nice day.
+
+<h1>*Updates</h1>
+
+After I posted this report to the NZ GIS Geeks Facebook page I got a massive response. Thanks to Google Analytics (I recommend using [uBlock](https://github.com/gorhill/uBlock)) I could see that I got around 150 unique visitors from 4 countries, which was really cool. I got some strongly written comments, both for and against my statements. What was most scary was an email from the author of LocalMaps, but it turned out to be a really informative and amicable comment on the history of the service and how they have developed it and dealt with some of the issues I brought up. The main thing to clear up is that GeoCortex and LocalMaps are completely independent, so sorry about that leap. Thanks so much for all of the responses and constructive criticism, although I still am sticking to my opinions and judgements casted here!

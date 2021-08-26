@@ -10,7 +10,7 @@ permalink: /about/
 </style>
 
 <h1>Sophie Kolston (she/her)</h1>
-Kia ora! I am an undergraduate Geographic Information Science (GIS) student studying at the University of Auckland. My research interests currently revolve around virtual reality for qualitative GIS, with this project focussing on the spread of Kauri dieback, with Dr Michael Martin. I also tutor GISCI242 (Principles of GIScience).
+Kia ora! I am an undergraduate Geographic Information Science (GIS) student studying at the University of Auckland. My research interests currently revolve around free and open-source development for GIS. I am tutoring Environmental Science 203 (Environmental Modelling), and am starting as a Graduate Spatial Advisor with Abley in November.
 
 ![eoaue](/assets/IMG_20210411_083727.jpg)
 
@@ -23,13 +23,15 @@ Kia ora! I am an undergraduate Geographic Information Science (GIS) student stud
 
 <b>Professional Experience (Geospatial)</b>
 
-Feb 2021-present: Geospatial Research Assistant
+Feb 2021-present: Graduate Teaching Assistant (GISCI242 and ENVSCI203)
+
+<p class="tab">ENVSCI203: Teach a lab where students construct and modify environmental models in Excel and Netlogo.  These models range from logistic population models to stochastic agent-based virus spreads.</p>
+
+<p class="tab">GISCI242: Taught a computer lab, instructing and supporting students in their assignments that revolve around spatial analysis and cartography to intermediate levels of complexity (e.g. multi-criteria evaluation, spatial interpolation, basic web mapping and 3D modelling).</p>
+
+Feb 2021-July 2021: Geospatial Research Assistant
 
 <p class="tab">Continuing my summer work designing a virtual reality GISystem. Expanded on tethered experience  to  a standalone  system that ingests video files, extracts and validates telemetry and projects them into a virtual environment. Currently working on an interpolation algorithm for fixing anomalous GPS trackpoints.</p>
-
-Feb 2021-present: Teaching Assistant (GISCI242)
-
-<p class="tab">Teach a computer lab, instructing and supporting students in their assignments that revolve around spatial analysis and cartography to intermediate levels of complexity (e.g. multi-criteria evaluation, spatial interpolation, basic web mapping and 3D modelling).</p>
 
 Nov 2020-Feb 2021: Summer Researcher
 
@@ -54,7 +56,7 @@ Volunteering: Mapping and Validation for Humanitarian OpenStreetMap. Signed up a
 University
 <p class="tab">Auckland University Cycling Club: President and co-founder. </p>
 <p class="tab">Te Ropu Taiao - Environment Association: Geospatial Representative, GIS Helpdesk founder.</p>
-<p class="tab">Other: Participated in the MAXAR 2021 Geospatial Hackathon. Regular attendee at the Data Science club professional development workshops.</p>
+<p class="tab">Other: Team placed second in the Auckland Transport UniCycle Hackathon 2021. Participated in the MAXAR 2021 Geospatial Hackathon. Regular attendee at the Data Science club professional development workshops.</p>
 
 High School
 <p class="tab">Leader of Robotics Club. Member of Model United Nations, Red Cross, Amnesty International. Participated in NZOI and NZIC Programming Competitions. </p>

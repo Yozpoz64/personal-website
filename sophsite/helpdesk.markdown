@@ -12,17 +12,13 @@ We never want students to stress. This is pretty unavoidable at uni, but hopeful
 Thanks to Gina, Rachel, Amber, Sila and everyone else who helped us sort out the room booking, advertising, and coming to the sessions to help out.
 
 #### Important Info
-Semester one sessions over, check back after exams for the semester two times
+Alert level 4 update: the helpdesk will run via zoom, and the link is available on the [Facebook](https://www.facebook.com/groups/gishelpdesk) page.
 
 <b>Location:</b> <strike>302-160 (Science Centre, floor one)</strike> 
 
 <b>Time:</b> <strike>17:00 - 18:00</strike>
 
 <b>Day:</b> <strike>Tuesday (within semester time)</strike>
-
-![Helpdesk Poster](/assets/helpdesk_poster.png "Helpdesk Poster")
-
-Thanks to Rachel for that amazing SQL joke
 
 #### Privacy
 Note that any pictures shared on this blog or anywhere else were taken with permission of everyone included in the photo. Please contact me if you have any concerns
