@@ -6,13 +6,9 @@ permalink: /portfolio/
 Here you can find some examples of my work. To get the most recent projects I am working on, or some more in-depth information, send me an email or check out my GitHub :)
 
 <h4>Cartography</h4>
-Here are a couple of examples of my cartographic skills. This first map was the result of a series of multi-criteria evaluations into the expansion of the agricultural and carpet industries in Kathmandu:
+I don't do much work in static cartography, but this example was the result of a series of multi-criteria evaluations into the expansion of the agricultural and carpet industries in Kathmandu:
 
 <img style="width:100%" src="/assets/portfolio/mce.png">
-
-This map was created to show the pedestrian catchment for Mt Eden train station using advanced network analysis techniques:
-
-<img style="width:100%" src="/assets/portfolio/network.png">
 
 <h4>Reports</h4>
 I have worked with big data to find the correlation between the [extent of polar sea ice and tsunami events](/assets/portfolio/lab1report.pdf). This was my first endevour in big data analysis. I have also analyzed the [factors affecting AirBnb properties in Christchurch](/assets/portfolio/lab2report.pdf). This involved geospatial servers, webmapping and more.

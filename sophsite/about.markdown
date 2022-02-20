@@ -10,24 +10,27 @@ permalink: /about/
 </style>
 
 <h1>Sophie Kolston (she/her)</h1>
-Kia ora! I am an undergraduate Geographic Information Science (GIS) student studying at the University of Auckland. My research interests currently revolve around free and open-source development for GIS. I am tutoring Environmental Science 203 (Environmental Modelling), and am starting as a Graduate Spatial Advisor with Abley in November.
-
+Kia ora! I am a modelling and GIS nerd. My research interests currently revolve around free and open-source modelling for climate science. I work as a Graduate Spatial Advisor for Abley in &#332;tautahi.
 ![eoaue](/assets/IMG_20210411_083727.jpg)
 
 <h1>Plaintext CV</h1>
 <b>Education</b>
 
-2019-present: Stage III BSc Student (Geographic Information Science) at the University of Auckland. Top of class awards for GISCI242 and ENVSCI203.
+2019-2021: Bachelor of Science (Geographic Information Science) at the University of Auckland. Top of class awards for GISCI242, 343, ENVSCI203, ENGGEN101.
 
 2004-2018: Rangitoto College. NCEA Level 3 Excellence endorsed. Outstanding scholarship in Technology.
 
 <b>Professional Experience (Geospatial)</b>
 
+Nov 2021-present: Graduate Spatial Advisor (Abley)
+
+<p class="tab">Consultant for spatial and data analysis needs. Sit in the digital engineering team.</p>
+
 Feb 2021-present: Graduate Teaching Assistant (GISCI242 and ENVSCI203)
 
-<p class="tab">ENVSCI203: Teach a lab where students construct and modify environmental models in Excel and Netlogo.  These models range from logistic population models to stochastic agent-based virus spreads.</p>
+<p class="tab">Currently updating lab assignments as part of the transition to ArcGIS Pro and QGIS (in place of ArcMap).</p>
 
-<p class="tab">GISCI242: Taught a computer lab, instructing and supporting students in their assignments that revolve around spatial analysis and cartography to intermediate levels of complexity (e.g. multi-criteria evaluation, spatial interpolation, basic web mapping and 3D modelling).</p>
+<p class="tab">GISCI242: Taught a computer lab, instructing and supporting students in their assignments that revolve around spatial analysis and cartography to intermediate levels of complexity (e.g. multi-criteria evaluation, spatial interpolation, basic web mapping and 3D modelling). ENVSCI203: Taught a lab where students construct and modify environmental models in Excel and Netlogo. These models range from logistic population models to stochastic agent-based virus spreads.</p>
 
 Feb 2021-July 2021: Geospatial Research Assistant
 
