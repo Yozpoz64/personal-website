@@ -11,6 +11,11 @@ Unfortunately, I do have one trip that I can't make by bike. It took me a very l
 
 And so I found myself walking down to the central bus terminal and buying a Metro card. The prices were reasonable, the route was pretty direct for me, and the buses were quite frequent. And yet, over the weeks I have been using Christchurch Metro I have found some oddities in the service which make it pretty frustrating to use. Naturally I thought I would write a blog post about it to vent my frustrations, so here a few things that cause me mild annoyance on the Christchurch Metro.
 
+<div style="text-align: center;">
+<img src="/assets/chchmetro/metrocard.jpg" width="75%">
+</div>
+<p style="text-align: center;"><i>My rather cute (I love the design) Metro Card</i></p>
+
 <br>
 
 **Split Shifts**
@@ -21,6 +26,10 @@ Why do the service operators think that split shifts are a good idea? Not only i
 
 Apparently Christchurch City Council decided that an app would not '[provide any additional benefit](https://www.metroinfo.co.nz/news/real-time-information/)' to patrons. I find this conclusion annoying, as the website is very hard to use. They have live tracking which is pretty accurate, but the user experience is awful, to the point where it is faster for me to walk 5 minutes to my bus stop and look at the live signage rather than check when the next bus comes on the website. App development is so easy and cheap these days that it feels very illogical to spend all this time making a website that looks like an app, yet has all of the awful user experience that comes with mobile browsers. I know that this kind of thing is normal outside of Auckland, with areas that have lower populations and much lower public transit patronage, but it is a mild annoyance, so it makes the list. 
 
+<div style="text-align: center;">
+<img src="/assets/chchmetro/metrosite.jpg" width="50%">
+</div>
+<p style="text-align: center;"><i>Try clicking on a bus/bus stop on MetroInfo, I dare you</i></p>
 **Tagging Off**
 
 This is not really annoying from a normal user's point of view, but it annoys me when I think about the lost data analysis! When you get on a bus you tag on, and it charges you for one zone (unless you state otherwise). When you exit the bus you do not need to tag off. I assume this means that Christchurch Metro does not have patronage data for length of trip, high-profile arrival zones, and so on. Why would they not force people to tag off? They could get way more data if they did, so that annoys me mildly as a data nerd.
