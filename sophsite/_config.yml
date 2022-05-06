@@ -21,11 +21,12 @@
 title: Sophie's Website
 email: sophie.kolston@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Some things I find cool
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SophieKolston
 github_username:  Yozpoz64
+
+environment: production
 
 # google analytics
 google_analytics: G-JQJE3VQ7NX
